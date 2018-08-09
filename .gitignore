@@ -2,3 +2,5 @@
 *.png
 *.txt
 .DS_Store
+.goo
+.far
